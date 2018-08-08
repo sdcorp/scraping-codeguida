@@ -1,0 +1,26 @@
+{
+  "name": "scraping-codeguida",
+  "version": "1.0.0",
+  "description": "Scraping html",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdcorp/scraping-codeguida.git"
+  },
+  "keywords": [
+    "scraping",
+    "osmosis"
+  ],
+  "author": "Dmitriy Soldatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdcorp/scraping-codeguida/issues"
+  },
+  "homepage": "https://github.com/sdcorp/scraping-codeguida#readme",
+  "dependencies": {
+    "osmosis": "^1.1.8"
+  }
+}
